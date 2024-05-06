@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Zack Market_svg-inline--fa fa-user fa-w-14</name>
+   <tag></tag>
+   <elementGuidId>53daf2cd-d5ce-4a2f-a842-7b5ed89c60ee</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Zack Market/svg_Zack Market_svg-inline--fa fa-user fa-w-14.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Zack Market/svg_Zack Market_svg-inline--fa fa-user fa-w-14.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1Z8DY&quot;]/div[@class=&quot;header_outbox__2AJDK&quot;]/div[1]/div[@class=&quot;userHeader_outbox__3_BoI&quot;]/div[@class=&quot;userHeader_loggout__1ayRn&quot;]/div[@class=&quot;userHeader_tag__1GnYA&quot;]/svg[@class=&quot;svg-inline--fa fa-user fa-w-14&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-user.fa-w-14</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Zack Market'])[2]/preceding::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4e51abd3-4b4c-4bd0-a68f-e2105a6d9f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b164586a-430f-4621-80cc-6136950db394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8b7df58e-a109-40e2-9e32-e63654f82094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>389c4e97-5a42-4b35-8dac-4e808e083264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>user</value>
+      <webElementGuid>8f413659-c983-4540-9869-c95225c65b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-user fa-w-14 </value>
+      <webElementGuid>36b88918-0d1c-4899-b21e-abab482cf3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>daa47a33-d14e-4953-a57c-526960398260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0a9b51f4-9ab6-4c53-a236-0f56b4b5b83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 448 512</value>
+      <webElementGuid>ea054983-2565-468d-a8e8-6e6506f27f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1Z8DY&quot;]/div[@class=&quot;header_outbox__2AJDK&quot;]/div[1]/div[@class=&quot;userHeader_outbox__3_BoI&quot;]/div[@class=&quot;userHeader_loggout__1ayRn&quot;]/div[@class=&quot;userHeader_tag__1GnYA&quot;]/svg[@class=&quot;svg-inline--fa fa-user fa-w-14&quot;]</value>
+      <webElementGuid>1414d856-4040-4510-ab26-48dfdd819f3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zack Market'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>82791a2c-9218-4e6f-99c0-ddc9be372775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Products'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b0826cba-9af0-4d3f-84f1-54b55435e7ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
