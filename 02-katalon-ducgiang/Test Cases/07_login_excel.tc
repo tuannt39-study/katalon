@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07_login_excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>634d16e7-bb16-4dcb-95be-e47cde6c2c76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfea4ad3-ae80-49b0-8194-faccf491b02f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f572a3e-2a81-467c-953d-c61163e88872</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17d6437e-0e5d-4d5d-952a-8f74ca6bdb29</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cfea4ad3-ae80-49b0-8194-faccf491b02f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f572a3e-2a81-467c-953d-c61163e88872</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17d6437e-0e5d-4d5d-952a-8f74ca6bdb29</id>
+      <masked>false</masked>
+      <name>msg</name>
+   </variable>
+</TestCaseEntity>
